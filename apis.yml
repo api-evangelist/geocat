@@ -78,3 +78,5 @@ apis:
     url: https://maps.geocat.net/geoserver/ogc/features/v1
   - type: Collections
     url: https://maps.geocat.net/geoserver/ogc/features/v1/collections?f=json
+  - type: ConformanceEndpoint
+    url: https://maps.geocat.net/geoserver/ogc/features/v1/conformance
