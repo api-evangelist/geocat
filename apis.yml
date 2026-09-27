@@ -1,5 +1,5 @@
 aid: geocat
-name: GeoCat bv
+name: GeoCat
 type: Index
 deliveryModel:
   model: unknown
@@ -80,3 +80,4 @@ apis:
     url: https://maps.geocat.net/geoserver/ogc/features/v1/collections?f=json
   - type: ConformanceEndpoint
     url: https://maps.geocat.net/geoserver/ogc/features/v1/conformance
+x-legal-name: GeoCat bv
